@@ -4,18 +4,18 @@ REM ############################################
 REM ## You can change here your own DB params ##
 REM ############################################
 REM MYSQL BIN PATH
-set mysqlBinPath=C:\Program Files\MySQL\MySQL Server 5.5\bin
+set mysqlBinPath=C:\OSPanel\modules\database\MariaDB-10.3-x64\bin
 
 REM LOGINSERVER
-set lsuser=
+set lsuser=root
 set lspass=
-set lsdb=acis
+set lsdb=pvp-storm
 set lshost=localhost
 
 REM GAMESERVER
-set gsuser=
+set gsuser=root
 set gspass=
-set gsdb=acis
+set gsdb=pvp-storm
 set gshost=localhost
 REM ############################################
 
