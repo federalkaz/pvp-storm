@@ -3,16 +3,16 @@ trap finish 2
 configure() {
 
 # Loginserver
-LSDBHOST="localhost"
-LSDB="acis"
-LSUSER="root"
-LSPASS=""
+LSDBHOST=localhost
+LSDB=l2jdb
+LSUSER=dbuser
+LSPASS=111500q
 
 # Gameserver
-GSDBHOST="localhost"
-GSDB="acis"
-GSUSER="root"
-GSPASS=""
+GSDBHOST=localhost
+GSDB=l2jdb
+GSUSER=dbuser
+GSPASS=111500q
 
 echo "                        aCis database installation"
 echo "                        __________________________"

@@ -1,0 +1,129 @@
+---------------------------------------------------------------------=[ aCis ]
+Loading gameserver configuration files.
+MLog clients using java 1.4+ standard logging.
+Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+Initializing ThreadPool.
+----------------------------------------------------------------=[ IdFactory ]
+Updated characters online status.
+Cleaned 0 elements from database.
+Cleaned 0 expired timestamps from database.
+Initializing 102912 objectIds pool, with 0 used ids.
+--------------------------------------------------------------------=[ World ]
+World grid (176 by 256) is now set up.
+Loaded regions.
+Loaded 0 announcements.
+Loaded 0 server variables.
+-------------------------------------------------------------------=[ Skills ]
+SkillTable: Loaded 29738 skills.
+Loaded 117 fishing skills.
+Loaded 64 clan skills.
+Loaded 14550 enchant skills.
+--------------------------------------------------------------------=[ Items ]
+Loaded items.
+Loaded 14 summon items.
+Loaded 180 hennas.
+Loaded 675 buyLists.
+Loaded 85 multisell.
+Loaded 871 recipes.
+Loaded 51 armor sets.
+Loaded 270 fish.
+Loaded 334 spellbooks.
+Loaded 39 Soul Crystals data and 124 NPCs data.
+Loaded 4 sets of augmentation stats.
+Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+Loaded 2 cursed weapons.
+-------------------------------------------------------------------=[ Admins ]
+Loaded 10 access levels.
+Loaded 232 admin command rights.
+Loaded 0 bookmarks.
+---------------------------------------------------------------=[ Characters ]
+Loaded 89 player classes templates.
+Loaded 0 player infos.
+Loaded 81 player levels.
+Loaded 14 newbie buffs.
+Loaded 644 teleport locations.
+Loaded 0 RaidPoints entries.
+---------------------------------------------------------=[ Community server ]
+Community server is disabled.
+--------------------------------------------------------------------=[ Clans ]
+Loaded 0 crests.
+Loaded 0 clans.
+----------------------------------------------------=[ Geodata & Pathfinding ]
+Loaded 139 L2D region files.
+Loaded 32 node buffers.
+--------------------------------------------------------------------=[ Zones ]
+Loaded 24 zones classes and total 1017 zones.
+-----------------------------------------------------=[ Castles & Clan Halls ]
+Loaded 9 castles.
+Loaded 44 clan halls and 6 conquerable clan halls.
+------------------------------------------------------------=[ Task Managers ]
+Restored 0 items on ground.
+--------------------------------------------------------------=[ Auto Spawns ]
+Loaded 124 auto spawns.
+--------------------------------------------------------------=[ Seven Signs ]
+Currently on Competition (Quest Event) period.
+The Seal of Avarice remains unclaimed.
+The Seal of Strife remains unclaimed.
+The Seal of Gnosis remains unclaimed.
+The Seven Signs competition will end in a tie this week.
+Next Seven Signs period change set to Mon Dec 30 18:00:00 ALMT 2019.
+Next Seven Signs period begins in 4 days, 6 hours and 22 mins.
+The first Festival of Darkness cycle begins in 2 minute(s).
+------------------------------------------------------------=[ Manor Manager ]
+Loaded 256 seeds.
+---------------------------------------------------------------------=[ NPCs ]
+Loaded 60 available buffs.
+Loaded 2 herbs groups.
+Loaded 6473 NPC templates.
+Loaded 12 Walker routes.
+Loaded 547 doors templates.
+Loaded 29 static objects.
+Loaded 40684 spawns.
+Loaded 195 raid bosses.
+Loaded 12 GrandBosses instances.
+Loaded day creatures spawns.
+Loaded Dimensional Rift rooms.
+-------------------------------------------------------=[ Olympiads & Heroes ]
+Loaded 22 stadiums.
+Couldn't load Olympiad data, default values are used.
+8662 minutes until Olympiad period ends.
+Next weekly Olympiad change is in 10079 minutes.
+Loaded 0 nobles.
+Olympiad competition period starts in 0 days, 6 hours and 22 mins.
+Olympiad event starts/started @ Thu Dec 26 18:00:00 ALMT 2019.
+Loaded 0 heroes and 0 all time heroes.
+----------------------------------------------------------=[ Four Sepulchers ]
+Loaded 20 Mysterious-Box.
+Loaded 39 Key-Box.
+Loaded 716 physical type monsters.
+Loaded 716 magical type monsters.
+Loaded 4 Shadows of Halisha.
+Loaded 92 Duke's Hall Gatekeepers.
+Loaded 68 Emperor's Grave monsters.
+Loaded 4 managers.
+---------------------------------------------------------=[ Quests & Scripts ]
+Devastated Castle siege scheduled for Thu Jan 09 12:00:00 ALMT 2020.
+Fortress of Resistance siege scheduled for Thu Jan 09 12:00:00 ALMT 2020.
+Fortress of the Dead siege scheduled for Thu Jan 09 12:00:00 ALMT 2020.
+Rainbow Springs Chateau siege scheduled for Thu Jan 09 12:00:00 ALMT 2020.
+Loaded 397 regular scripts and 5 scheduled scripts.
+-------------------------------------------------------------------=[ Events ]
+Loaded 3 Derby Track records, currently on race #4.
+A new Fishing Championship event period has started.
+-----------------------------------------------------------------=[ Handlers ]
+Loaded 229 admin command handlers.
+Loaded 13 chat handlers.
+Loaded 26 item handlers.
+Loaded 73 skill handlers.
+Loaded 15 user command handlers.
+-------------------------------------------------------------------=[ System ]
+Deadlock detector is disabled.
+Gameserver has started, used memory: 1240 / 6144 Mo.
+Maximum allowed players: 1000.
+--------------------------------------------------------------------=[ Login ]
+Connecting to login on 127.0.0.1:9014.
+Registered as server: [1] PvP-Storm.
+A new Four Sepulchers event has been announced (ATTACK).
+A new Four Sepulchers event has been announced (END).
+A new Four Sepulchers event has been announced (ENTRY).
+ThreadPool: Shutting down.

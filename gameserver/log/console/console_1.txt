@@ -1,0 +1,125 @@
+[26-12-2019 15:13:51]	INFO	---------------------------------------------------------------------=[ aCis ]
+[26-12-2019 15:13:51]	INFO	Loading gameserver configuration files.
+[26-12-2019 15:13:52]	INFO	MLog clients using java 1.4+ standard logging.
+[26-12-2019 15:13:52]	INFO	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+[26-12-2019 15:13:53]	INFO	Initializing ThreadPool.
+[26-12-2019 15:13:53]	INFO	----------------------------------------------------------------=[ IdFactory ]
+[26-12-2019 15:13:53]	INFO	Updated characters online status.
+[26-12-2019 15:13:53]	INFO	Cleaned 0 elements from database.
+[26-12-2019 15:13:53]	INFO	Cleaned 0 expired timestamps from database.
+[26-12-2019 15:13:53]	INFO	Initializing 102912 objectIds pool, with 0 used ids.
+[26-12-2019 15:13:53]	INFO	--------------------------------------------------------------------=[ World ]
+[26-12-2019 15:13:53]	INFO	World grid (176 by 256) is now set up.
+[26-12-2019 15:13:53]	INFO	Loaded regions.
+[26-12-2019 15:13:53]	INFO	Loaded 0 announcements.
+[26-12-2019 15:13:53]	INFO	Loaded 1 server variables.
+[26-12-2019 15:13:53]	INFO	-------------------------------------------------------------------=[ Skills ]
+[26-12-2019 15:13:56]	INFO	SkillTable: Loaded 29738 skills.
+[26-12-2019 15:13:56]	INFO	Loaded 117 fishing skills.
+[26-12-2019 15:13:56]	INFO	Loaded 64 clan skills.
+[26-12-2019 15:13:56]	INFO	Loaded 14550 enchant skills.
+[26-12-2019 15:13:56]	INFO	--------------------------------------------------------------------=[ Items ]
+[26-12-2019 15:13:58]	INFO	Loaded items.
+[26-12-2019 15:13:58]	INFO	Loaded 14 summon items.
+[26-12-2019 15:13:58]	INFO	Loaded 180 hennas.
+[26-12-2019 15:13:58]	INFO	Loaded 675 buyLists.
+[26-12-2019 15:13:58]	INFO	Loaded 85 multisell.
+[26-12-2019 15:13:58]	INFO	Loaded 871 recipes.
+[26-12-2019 15:13:59]	INFO	Loaded 51 armor sets.
+[26-12-2019 15:13:59]	INFO	Loaded 270 fish.
+[26-12-2019 15:13:59]	INFO	Loaded 334 spellbooks.
+[26-12-2019 15:13:59]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
+[26-12-2019 15:13:59]	INFO	Loaded 4 sets of augmentation stats.
+[26-12-2019 15:13:59]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+[26-12-2019 15:13:59]	INFO	Loaded 2 cursed weapons.
+[26-12-2019 15:13:59]	INFO	-------------------------------------------------------------------=[ Admins ]
+[26-12-2019 15:13:59]	INFO	Loaded 10 access levels.
+[26-12-2019 15:13:59]	INFO	Loaded 232 admin command rights.
+[26-12-2019 15:13:59]	INFO	Loaded 0 bookmarks.
+[26-12-2019 15:13:59]	INFO	---------------------------------------------------------------=[ Characters ]
+[26-12-2019 15:13:59]	INFO	Loaded 89 player classes templates.
+[26-12-2019 15:13:59]	INFO	Loaded 0 player infos.
+[26-12-2019 15:13:59]	INFO	Loaded 81 player levels.
+[26-12-2019 15:13:59]	INFO	Loaded 14 newbie buffs.
+[26-12-2019 15:13:59]	INFO	Loaded 644 teleport locations.
+[26-12-2019 15:13:59]	INFO	Loaded 0 RaidPoints entries.
+[26-12-2019 15:13:59]	INFO	---------------------------------------------------------=[ Community server ]
+[26-12-2019 15:13:59]	INFO	Community server is disabled.
+[26-12-2019 15:13:59]	INFO	--------------------------------------------------------------------=[ Clans ]
+[26-12-2019 15:13:59]	INFO	Loaded 0 crests.
+[26-12-2019 15:13:59]	INFO	Loaded 0 clans.
+[26-12-2019 15:13:59]	INFO	----------------------------------------------------=[ Geodata & Pathfinding ]
+[26-12-2019 15:14:15]	INFO	Loaded 139 L2D region files.
+[26-12-2019 15:14:15]	INFO	Loaded 32 node buffers.
+[26-12-2019 15:14:15]	INFO	--------------------------------------------------------------------=[ Zones ]
+[26-12-2019 15:14:25]	INFO	Loaded 24 zones classes and total 1017 zones.
+[26-12-2019 15:14:25]	INFO	-----------------------------------------------------=[ Castles & Clan Halls ]
+[26-12-2019 15:14:25]	INFO	Loaded 9 castles.
+[26-12-2019 15:14:25]	INFO	Loaded 44 clan halls and 6 conquerable clan halls.
+[26-12-2019 15:14:25]	INFO	------------------------------------------------------------=[ Task Managers ]
+[26-12-2019 15:14:25]	INFO	Restored 0 items on ground.
+[26-12-2019 15:14:25]	INFO	--------------------------------------------------------------=[ Auto Spawns ]
+[26-12-2019 15:14:25]	INFO	Loaded 124 auto spawns.
+[26-12-2019 15:14:25]	INFO	--------------------------------------------------------------=[ Seven Signs ]
+[26-12-2019 15:14:26]	INFO	Currently on Competition (Quest Event) period.
+[26-12-2019 15:14:26]	INFO	The Seal of Avarice remains unclaimed.
+[26-12-2019 15:14:26]	INFO	The Seal of Gnosis remains unclaimed.
+[26-12-2019 15:14:26]	INFO	The Seal of Strife remains unclaimed.
+[26-12-2019 15:14:26]	INFO	The Seven Signs competition will end in a tie this week.
+[26-12-2019 15:14:26]	INFO	Next Seven Signs period change set to Mon Dec 30 18:00:00 ALMT 2019.
+[26-12-2019 15:14:26]	INFO	Next Seven Signs period begins in 4 days, 2 hours and 45 mins.
+[26-12-2019 15:14:26]	INFO	The first Festival of Darkness cycle begins in 2 minute(s).
+[26-12-2019 15:14:26]	INFO	------------------------------------------------------------=[ Manor Manager ]
+[26-12-2019 15:14:26]	INFO	Loaded 256 seeds.
+[26-12-2019 15:14:26]	INFO	---------------------------------------------------------------------=[ NPCs ]
+[26-12-2019 15:14:26]	INFO	Loaded 60 available buffs.
+[26-12-2019 15:14:26]	INFO	Loaded 2 herbs groups.
+[26-12-2019 15:14:28]	INFO	Loaded 6473 NPC templates.
+[26-12-2019 15:14:28]	INFO	Loaded 12 Walker routes.
+[26-12-2019 15:14:28]	INFO	Loaded 547 doors templates.
+[26-12-2019 15:14:28]	INFO	Loaded 29 static objects.
+[26-12-2019 15:14:31]	INFO	Loaded 40684 spawns.
+[26-12-2019 15:14:31]	INFO	Loaded 195 raid bosses.
+[26-12-2019 15:14:31]	INFO	Loaded 12 GrandBosses instances.
+[26-12-2019 15:14:31]	INFO	Loaded day creatures spawns.
+[26-12-2019 15:14:31]	INFO	Loaded Dimensional Rift rooms.
+[26-12-2019 15:14:31]	INFO	-------------------------------------------------------=[ Olympiads & Heroes ]
+[26-12-2019 15:14:31]	INFO	Loaded 22 stadiums.
+[26-12-2019 15:14:31]	INFO	8445 minutes until Olympiad period ends.
+[26-12-2019 15:14:31]	INFO	Next weekly Olympiad change is in 9917 minutes.
+[26-12-2019 15:14:31]	INFO	Loaded 0 nobles.
+[26-12-2019 15:14:31]	INFO	Olympiad competition period starts in 0 days, 2 hours and 45 mins.
+[26-12-2019 15:14:31]	INFO	Olympiad event starts/started @ Thu Dec 26 18:00:00 ALMT 2019.
+[26-12-2019 15:14:31]	INFO	Loaded 0 heroes and 0 all time heroes.
+[26-12-2019 15:14:31]	INFO	----------------------------------------------------------=[ Four Sepulchers ]
+[26-12-2019 15:14:31]	INFO	Loaded 20 Mysterious-Box.
+[26-12-2019 15:14:31]	INFO	Loaded 39 Key-Box.
+[26-12-2019 15:14:31]	INFO	Loaded 716 physical type monsters.
+[26-12-2019 15:14:31]	INFO	Loaded 716 magical type monsters.
+[26-12-2019 15:14:31]	INFO	Loaded 4 Shadows of Halisha.
+[26-12-2019 15:14:31]	INFO	Loaded 92 Duke's Hall Gatekeepers.
+[26-12-2019 15:14:31]	INFO	Loaded 68 Emperor's Grave monsters.
+[26-12-2019 15:14:31]	INFO	Loaded 4 managers.
+[26-12-2019 15:14:31]	INFO	---------------------------------------------------------=[ Quests & Scripts ]
+[26-12-2019 15:14:32]	INFO	Devastated Castle siege scheduled for Thu Jan 09 12:00:00 ALMT 2020.
+[26-12-2019 15:14:32]	INFO	Fortress of Resistance siege scheduled for Thu Jan 09 12:00:00 ALMT 2020.
+[26-12-2019 15:14:32]	INFO	Fortress of the Dead siege scheduled for Thu Jan 09 12:00:00 ALMT 2020.
+[26-12-2019 15:14:32]	INFO	Rainbow Springs Chateau siege scheduled for Thu Jan 09 12:00:00 ALMT 2020.
+[26-12-2019 15:14:32]	INFO	Loaded 397 regular scripts and 5 scheduled scripts.
+[26-12-2019 15:14:32]	INFO	-------------------------------------------------------------------=[ Events ]
+[26-12-2019 15:14:32]	INFO	Loaded 7 Derby Track records, currently on race #8.
+[26-12-2019 15:14:32]	INFO	-----------------------------------------------------------------=[ Handlers ]
+[26-12-2019 15:14:32]	INFO	Loaded 229 admin command handlers.
+[26-12-2019 15:14:32]	INFO	Loaded 13 chat handlers.
+[26-12-2019 15:14:32]	INFO	Loaded 26 item handlers.
+[26-12-2019 15:14:32]	INFO	Loaded 73 skill handlers.
+[26-12-2019 15:14:32]	INFO	Loaded 15 user command handlers.
+[26-12-2019 15:14:32]	INFO	-------------------------------------------------------------------=[ System ]
+[26-12-2019 15:14:32]	INFO	Deadlock detector is disabled.
+[26-12-2019 15:14:34]	INFO	Gameserver has started, used memory: 1240 / 6144 Mo.
+[26-12-2019 15:14:34]	INFO	Maximum allowed players: 1000.
+[26-12-2019 15:14:34]	INFO	--------------------------------------------------------------------=[ Login ]
+[26-12-2019 15:14:34]	INFO	Connecting to login on 127.0.0.1:9014.
+[26-12-2019 15:14:34]	INFO	Registered as server: [1] PvP-Storm.
+[26-12-2019 15:15:00]	INFO	A new Four Sepulchers event has been announced (ATTACK).
+[26-12-2019 15:39:34]	INFO	----------------------------------------------------=[ Under SIGTERM process ]

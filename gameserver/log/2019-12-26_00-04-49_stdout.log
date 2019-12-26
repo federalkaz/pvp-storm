@@ -1,0 +1,79 @@
+---------------------------------------------------------------------=[ aCis ]
+Loading gameserver configuration files.
+MLog clients using java 1.4+ standard logging.
+Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+Initializing ThreadPool.
+----------------------------------------------------------------=[ IdFactory ]
+Updated characters online status.
+Cleaned 0 elements from database.
+Cleaned 0 expired timestamps from database.
+Initializing 102912 objectIds pool, with 0 used ids.
+--------------------------------------------------------------------=[ World ]
+World grid (176 by 256) is now set up.
+Loaded regions.
+Loaded 0 announcements.
+Loaded 0 server variables.
+-------------------------------------------------------------------=[ Skills ]
+SkillTable: Loaded 29738 skills.
+Loaded 117 fishing skills.
+Loaded 64 clan skills.
+Loaded 14550 enchant skills.
+--------------------------------------------------------------------=[ Items ]
+Loaded items.
+Loaded 14 summon items.
+Loaded 180 hennas.
+Loaded 675 buyLists.
+Loaded 85 multisell.
+Loaded 871 recipes.
+Loaded 51 armor sets.
+Loaded 270 fish.
+Loaded 334 spellbooks.
+Loaded 39 Soul Crystals data and 124 NPCs data.
+Loaded 4 sets of augmentation stats.
+Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+Loaded 2 cursed weapons.
+-------------------------------------------------------------------=[ Admins ]
+Loaded 10 access levels.
+Loaded 232 admin command rights.
+Loaded 0 bookmarks.
+---------------------------------------------------------------=[ Characters ]
+Loaded 89 player classes templates.
+Loaded 0 player infos.
+Loaded 81 player levels.
+Loaded 14 newbie buffs.
+Loaded 644 teleport locations.
+Loaded 0 RaidPoints entries.
+---------------------------------------------------------=[ Community server ]
+Community server is disabled.
+--------------------------------------------------------------------=[ Clans ]
+Loaded 0 crests.
+Loaded 0 clans.
+----------------------------------------------------=[ Geodata & Pathfinding ]
+Error loading 19_11.l2d region file.
+java.io.FileNotFoundException: ./data/geodata/19_11.l2d (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:345)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:214)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:127)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine.loadGeoBlocks(GeoEngine.java:248)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine.<init>(GeoEngine.java:92)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine$SingletonHolder.<clinit>(GeoEngine.java:1552)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine.getInstance(GeoEngine.java:1547)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:199)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:115)
+Error loading 20_11.l2d region file.
+java.io.FileNotFoundException: ./data/geodata/20_11.l2d (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:345)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:214)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:127)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine.loadGeoBlocks(GeoEngine.java:248)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine.<init>(GeoEngine.java:92)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine$SingletonHolder.<clinit>(GeoEngine.java:1552)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine.getInstance(GeoEngine.java:1547)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:199)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:115)
+Loaded 137 L2D region files.
+Failed to load 2 L2D region files. Please consider to check your "geodata.properties" settings and location of your geodata files.

@@ -1,0 +1,18 @@
+[26-12-2019 14:40:18]	INFO	---------------------------------------------------------------------=[ aCis ]
+[26-12-2019 14:40:18]	INFO	Loading loginserver configuration files.
+[26-12-2019 14:40:18]	INFO	MLog clients using java 1.4+ standard logging.
+[26-12-2019 14:40:18]	INFO	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+[26-12-2019 14:40:19]	INFO	----------------------------------------------------------=[ LoginController ]
+[26-12-2019 14:40:20]	INFO	Cached 10 KeyPairs for RSA communication.
+[26-12-2019 14:40:20]	INFO	Stored 20 keys for Blowfish communication.
+[26-12-2019 14:40:20]	INFO	--------------------------------------------------------=[ GameServerManager ]
+[26-12-2019 14:40:20]	INFO	Loaded 127 server names.
+[26-12-2019 14:40:20]	INFO	Loaded 1 registered gameserver(s).
+[26-12-2019 14:40:21]	INFO	Cached 10 RSA keys for gameserver communication.
+[26-12-2019 14:40:21]	INFO	-----------------------------------------------------------------=[ Ban List ]
+[26-12-2019 14:40:21]	INFO	Loaded 0 banned IP(s).
+[26-12-2019 14:40:21]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
+[26-12-2019 14:40:21]	INFO	Listening for gameservers on 127.0.0.1:9014.
+[26-12-2019 14:40:21]	INFO	Loginserver ready on 10.166.0.2:2106.
+[26-12-2019 14:40:21]	INFO	--------------------------------------------=[ Waiting for gameserver answer ]
+[26-12-2019 14:41:15]	INFO	Hooked [1] PvP-Storm gameserver on: 0.0.0.0.

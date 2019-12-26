@@ -1,0 +1,18 @@
+---------------------------------------------------------------------=[ aCis ]
+Loading loginserver configuration files.
+MLog clients using java 1.4+ standard logging.
+Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+----------------------------------------------------------=[ LoginController ]
+Cached 10 KeyPairs for RSA communication.
+Stored 20 keys for Blowfish communication.
+--------------------------------------------------------=[ GameServerManager ]
+Loaded 127 server names.
+Loaded 1 registered gameserver(s).
+Cached 10 RSA keys for gameserver communication.
+-----------------------------------------------------------------=[ Ban List ]
+Loaded 0 banned IP(s).
+-------------------------------------------------=[ IP, Ports & Socket infos ]
+Listening for gameservers on 127.0.0.1:9014.
+Loginserver ready on 10.166.0.2:2106.
+--------------------------------------------=[ Waiting for gameserver answer ]
+Hooked [1] PvP-Storm gameserver on: 10.166.0.2.
